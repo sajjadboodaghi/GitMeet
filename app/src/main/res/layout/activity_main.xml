@@ -11,6 +11,7 @@
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:textSize="30sp"
+        android:onClick="showAlert"
         android:text="tap here" />
 
 </RelativeLayout>
