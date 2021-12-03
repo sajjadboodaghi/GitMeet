@@ -1,0 +1,2 @@
+rootProject.name='Git4'
+include ':app'
